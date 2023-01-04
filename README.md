@@ -15,4 +15,4 @@
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
-#### Apaixonado por tecnologia, gosto de resolver problemas e sou focado em aprimorar meus conhecimentos dia após dia.
+#### Apaixonado por tecnologia, gosto de resolver problemas e aprimorar meus conhecimentos dia após dia.
