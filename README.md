@@ -1,10 +1,10 @@
-### Olá! Bem vindo ao meu perfil do GitHub 👋
+#### Olá! Bem vindo ao meu perfil do GitHub 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-alves-81295120a/)
 
 ![joaoalves68 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalves68&show_icons=true&theme=dracula)
 
-## Tecnologias
+### Tecnologias
 <div style="display: inline-block">
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -15,5 +15,4 @@
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
-##
-#### Apaixonado por tecnologia, gosto de resolver problemas e sou focado em aprimorar meus conhecimentos dia após dia.
+##### Apaixonado por tecnologia, gosto de resolver problemas e sou focado em aprimorar meus conhecimentos dia após dia.
