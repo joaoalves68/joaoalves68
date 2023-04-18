@@ -18,10 +18,3 @@
 
 #
 #### Apaixonado por tecnologia, gosto de resolver problemas e aprimorar meus conhecimentos dia após dia.
-
-
-<style>
-    img{
-        margin-bottom: 5px;
-    }
-</style>
