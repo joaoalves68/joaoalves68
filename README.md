@@ -15,6 +15,3 @@
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="CodIgniter" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white" />
 </div>
-
-#
-#### Apaixonado por tecnologia, gosto de resolver problemas e aprimorar meus conhecimentos dia após dia.
